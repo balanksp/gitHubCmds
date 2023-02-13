@@ -1,7 +1,7 @@
 package com.example;
 
 /**
- * Hello world!
+ * Hello 
  *
  */
 
@@ -16,7 +16,4 @@ public class App
         System.out.println( "Hello World!" );
     }
 }
- /**
- * Hello mani
- *
- */
+/* something changes  */
